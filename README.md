@@ -1,0 +1,2 @@
+# Dynamic-dashboard-for-super-store-dataset-using-Excel
+My first Excel Dynamic Dashboard tracking sales on super-store . Excel Course is part of Intensive Code Camp at ITI || Data Visualization Track.  This Dashboard includes : 1- sales Trend by year 2- top 10 sold product 3- profit ratio by country 4- sales by country 5- top 10 customer 6- Top countries of Sales and customer 7- Quantity sold by country
